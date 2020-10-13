@@ -1,0 +1,6 @@
+[submodule "features/features/steps"]
+	path = features/features/steps
+	url = https://github.com/gingerxman/bdd-steps.git
+[submodule "features/steps"]
+	path = features/steps
+	url = https://github.com/gingerxman/bdd-steps.git

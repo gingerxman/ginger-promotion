@@ -1,0 +1,21 @@
+package constant
+
+const INVALID_CORP_ID int = -1
+const SNS_MAGIC_NUMBER = 300000313
+const CORP_MAGIC_NUMBER = 10000313
+
+const PRIV_LEVEL_NORMAL = 56
+const PRIV_LEVEL_WITHDRAWER = 33
+const PRIV_LEVEL_ANGLER = 298
+
+const USER_JWT_VERSION = 180719
+const CORP_USER_JWT_VERSION = 180719
+
+const TIME_LAYOUT = "2006-01-02 15:04:05"
+
+const SHORT_TIME_LAYOUT  = "2006-01-02 15:04"
+
+const DEFAULT_PWD = "test"
+
+func init() {
+}
